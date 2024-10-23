@@ -1,5 +1,5 @@
 Write a program to print the following number pyramid:
-
+package oct23;
 public class Pattren{
 
 
